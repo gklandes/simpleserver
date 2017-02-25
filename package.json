@@ -1,0 +1,22 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "simple static server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gklandes/simpleserver.git"
+  },
+  "author": "Gabriel Landes <gklandes@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gklandes/simpleserver/issues"
+  },
+  "homepage": "https://github.com/gklandes/simpleserver#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
